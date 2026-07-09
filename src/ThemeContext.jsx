@@ -26,5 +26,4 @@ export const ThemeProvider = ({ children }) => {
   );
 };
 
-// 3. Custom hook for easy access in your components
 export const useTheme = () => useContext(ThemeContext);

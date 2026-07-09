@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Sci-Fi",
+    "rating": "8.8",
+    "duration": "2h 28m",
+    "director": "Christopher Nolan",
+    "poster": "https://dummyimage.com/400x600/12343b/ffffff&text=Inception",
+    "description": "A thief who enters dreams is offered a final job that could erase his criminal record."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi",
+    "rating": "8.7",
+    "duration": "2h 49m",
+    "director": "Christopher Nolan",
+    "poster": "https://dummyimage.com/400x600/203a5f/ffffff&text=Interstellar",
+    "description": "A group of explorers travels through a wormhole to search for a future home for humanity."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action",
+    "rating": "9.0",
+    "duration": "2h 32m",
+    "director": "Christopher Nolan",
+    "poster": "https://dummyimage.com/400x600/1f2937/ffffff&text=The+Dark+Knight",
+    "description": "Batman faces a criminal mastermind who pushes Gotham City into chaos."
+  },
+  {
+    "id": 4,
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genre": "Action",
+    "rating": "8.4",
+    "duration": "3h 1m",
+    "director": "Anthony Russo, Joe Russo",
+    "poster": "https://dummyimage.com/400x600/6b1f1f/ffffff&text=Endgame",
+    "description": "The Avengers assemble one last time to reverse the damage caused by Thanos."
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "genre": "Drama",
+    "rating": "9.3",
+    "duration": "2h 22m",
+    "director": "Frank Darabont",
+    "poster": "https://dummyimage.com/400x600/5b4b36/ffffff&text=Shawshank",
+    "description": "Two prisoners form a lasting friendship while holding onto hope inside prison walls."
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genre": "Drama",
+    "rating": "8.8",
+    "duration": "2h 22m",
+    "director": "Robert Zemeckis",
+    "poster": "https://dummyimage.com/400x600/315c72/ffffff&text=Forrest+Gump",
+    "description": "A kind-hearted man witnesses major moments in history while following his own simple path."
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "year": "1972",
+    "genre": "Crime",
+    "rating": "9.2",
+    "duration": "2h 55m",
+    "director": "Francis Ford Coppola",
+    "poster": "https://dummyimage.com/400x600/2f2a28/ffffff&text=The+Godfather",
+    "description": "The aging leader of a powerful crime family transfers control to his reluctant son."
+  },
+  {
+    "id": 8,
+    "title": "Parasite",
+    "year": "2019",
+    "genre": "Thriller",
+    "rating": "8.5",
+    "duration": "2h 12m",
+    "director": "Bong Joon Ho",
+    "poster": "https://dummyimage.com/400x600/2f4f4f/ffffff&text=Parasite",
+    "description": "A poor family becomes entangled with a wealthy household through a risky plan."
+  },
+  {
+    "id": 9,
+    "title": "Coco",
+    "year": "2017",
+    "genre": "Animation",
+    "rating": "8.4",
+    "duration": "1h 45m",
+    "director": "Lee Unkrich",
+    "poster": "https://dummyimage.com/400x600/b94b2f/ffffff&text=Coco",
+    "description": "A young musician enters the Land of the Dead and discovers the truth about his family."
+  },
+  {
+    "id": 10,
+    "title": "Toy Story",
+    "year": "1995",
+    "genre": "Animation",
+    "rating": "8.3",
+    "duration": "1h 21m",
+    "director": "John Lasseter",
+    "poster": "https://dummyimage.com/400x600/27548a/ffffff&text=Toy+Story",
+    "description": "A cowboy doll feels threatened when a new space ranger toy joins the room."
+  },
+  {
+    "id": 11,
+    "title": "Jumanji",
+    "year": "1995",
+    "genre": "Adventure",
+    "rating": "7.1",
+    "duration": "1h 44m",
+    "director": "Joe Johnston",
+    "poster": "https://dummyimage.com/400x600/336b45/ffffff&text=Jumanji",
+    "description": "A magical board game releases wild dangers into the real world."
+  },
+  {
+    "id": 12,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": "2001",
+    "genre": "Fantasy",
+    "rating": "7.6",
+    "duration": "2h 32m",
+    "director": "Chris Columbus",
+    "poster": "https://dummyimage.com/400x600/5b4277/ffffff&text=Harry+Potter",
+    "description": "A young boy discovers he is a wizard and begins his first year at a magical school."
+  },
+  {
+    "id": 13,
+    "title": "Black Panther",
+    "year": "2018",
+    "genre": "Action",
+    "rating": "7.3",
+    "duration": "2h 14m",
+    "director": "Ryan Coogler",
+    "poster": "https://dummyimage.com/400x600/2b2440/ffffff&text=Black+Panther",
+    "description": "The king of Wakanda must defend his nation and decide what kind of leader he will become."
+  },
+  {
+    "id": 14,
+    "title": "La La Land",
+    "year": "2016",
+    "genre": "Romance",
+    "rating": "8.0",
+    "duration": "2h 8m",
+    "director": "Damien Chazelle",
+    "poster": "https://dummyimage.com/400x600/823b73/ffffff&text=La+La+Land",
+    "description": "A musician and an aspiring actor fall in love while chasing their dreams in Los Angeles."
+  },
+  {
+    "id": 15,
+    "title": "The Social Network",
+    "year": "2010",
+    "genre": "Drama",
+    "rating": "7.8",
+    "duration": "2h",
+    "director": "David Fincher",
+    "poster": "https://dummyimage.com/400x600/344054/ffffff&text=Social+Network",
+    "description": "The creation of a social media platform leads to success, conflict, and lawsuits."
+  },
+  {
+    "id": 16,
+    "title": "Knives Out",
+    "year": "2019",
+    "genre": "Mystery",
+    "rating": "7.9",
+    "duration": "2h 10m",
+    "director": "Rian Johnson",
+    "poster": "https://dummyimage.com/400x600/8b5e34/ffffff&text=Knives+Out",
+    "description": "A detective investigates a wealthy author's death in a house full of suspicious relatives."
+  }
+]
